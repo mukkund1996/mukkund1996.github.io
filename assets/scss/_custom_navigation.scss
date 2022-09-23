@@ -1,0 +1,14 @@
+$code-font-family: SFMono-Regular,
+Consolas,
+Liberation Mono,
+Menlo,
+monospace;
+
+.custom-navigation {
+}
+
+.custom-navigation-list {
+    &ul {
+        font-family: $code-font-family;
+    }
+}

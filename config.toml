@@ -27,9 +27,9 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
+customSCSS = ["scss/custom.scss"]
 # Custom JS
 customJS = []
 
@@ -61,21 +61,21 @@ url = "https://medium.com/@mukkundsunjii"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "_about"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "_projects"
 weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Learn with me"
+name = "_blog"
 weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "_contact_me"
 weight = 4
 url = "contact/"
