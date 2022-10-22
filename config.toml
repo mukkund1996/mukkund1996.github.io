@@ -14,7 +14,7 @@ author = "Mukkund Sunjii"
 description = "Mukkund's personal website"
 keywords = "blog,developer,personal"
 info = ["Full-Stack Developer", "DevOps Enthusiast"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "https://i.ibb.co/DrLMJ4F/avatar.png"
 dateFormat = "January 2, 2006"
 since = 2018
 favicon_32 = "images/favicon-32x32.png"
@@ -61,21 +61,21 @@ url = "https://medium.com/@mukkundsunjii"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "_about"
+name = "about"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "_projects"
+name = "projects"
 weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "_blog"
+name = "blog"
 weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "_contact_me"
+name = "contact me"
 weight = 4
 url = "contact/"
