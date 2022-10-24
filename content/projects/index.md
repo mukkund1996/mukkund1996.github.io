@@ -17,7 +17,8 @@ A simple, and an elegant web-based GUI for docker-compose. Create your microserv
 - A rust based WASM library is used to convert user defined diagrams to `docker-compose.yaml` files.
 - The app is deployed on Vercel using custom build scripts to accomodate the usage of WASM libraries.
 
-## [Demo](https://always-composed.vercel.app/)
+#### [Demo](https://always-composed.vercel.app/)
+#### [Code](https://github.com/mukkund1996/composed)
 
 # CTRL+C - CTRL+V
 
@@ -33,4 +34,5 @@ A progressive web app to enable cross-platform copying and pasting of text.
 - A NoSQL Mongo database is used to store the text snippets defined by the user.
 - Heroku is used as PaaS. The client (static html files) and the webserver is served by a single server. 
 
-## [Demo](http://ctrl-c-ctrl-v.herokuapp.com)
+#### [Demo](http://ctrl-c-ctrl-v.herokuapp.com)
+#### [Code](mukkund1996/copy-paste)
