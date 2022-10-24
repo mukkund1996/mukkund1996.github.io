@@ -78,4 +78,4 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "contact me"
 weight = 4
-url = "contact/"
+url = "about/#want-to-connect"
