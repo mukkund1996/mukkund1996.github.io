@@ -58,6 +58,7 @@ $hover-background-color: rgb(255, 221, 0);
       float: left;
       margin: 0;
       position: $code-font-family;
+      border-style: solid;
 
       @media only screen and (max-width: 768px) {
         float: none !important;

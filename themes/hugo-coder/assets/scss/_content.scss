@@ -169,14 +169,21 @@ $hover-background-color: rgb(255, 221, 0);
 
   @media only screen and (max-width: 768px) {
     flex-direction: column;
-    justify-content: flex-start;
   }
 
   .about {
     text-align: center;
+    border-style: solid;
   }
 
   .about-content {
+    border-style: solid;
+    padding: 5rem;
+
+    @media only screen and (max-width: 768px) {
+      padding: 2rem;
+    }
+
     h1 {
       margin-top: 2rem;
       margin-bottom: 0.5rem;
@@ -205,6 +212,8 @@ $hover-background-color: rgb(255, 221, 0);
       li {
         display: inline-block;
         position: relative;
+        border-style: solid;
+        padding-top: 5px;
 
         a {
           color: $fg-color;
