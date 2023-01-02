@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2023-01-03
+date = 2023-01-02
 title = "Building a Forex Estimator in Rust"
 description = "A zero-to-minimal dependency web server built from scratch in Rust"
 slug = ""
@@ -19,7 +19,7 @@ With the current ecosystem of powerful frameworks, it is easy to forget the amou
 ### Not Reinventing the Wheel
 For instance, 9 lines of code are all you need to get a REST API web server up and running using express on Node JS.
 
-```
+```js
 const express = require('express')
 const app = express()
 const port = 3000
@@ -35,7 +35,7 @@ app.listen(port, () => {
 
 Let's take another example, you can set up a linear regression model with just 4 lines of code excluding the data importing and cleaning steps.
 
-```
+```py
 # Import the packages and classes needed in this example:
 import numpy as np
 from sklearn.linear_model import LinearRegression
@@ -89,7 +89,7 @@ Dependencies: None
 As a convenience feature, I also added a separate binary that would run as a cronjob at set intervals. The binary would use the library to query the latest rates from the exchange API and check if it passes a certain threshold. If it does, it proceeds to estimate the future rates and send an email through an external API.
 To contrast how much easier it would be to build and send HTTP requests using external HTTP clients, I used the reqwests library in Rust. Previously, the routine that took almost 50 lines (connecting to the host, creating HTTP requests and parsing the response) now can be achieved in a mere 8 lines.
 
-```
+```rs
 let response = client
             .post(SENDGRID_API_URI)
             .header(AUTHORIZATION, format!("Bearer {api_key}"))
