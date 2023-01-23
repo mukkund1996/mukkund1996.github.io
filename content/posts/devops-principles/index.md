@@ -75,6 +75,8 @@ Modern DevOps services such as Gitlab CICD, Github Actions, and Azure DevOps can
 
 This article was based on ideas described in the book “The DevOps Handbook” by Gene Kim, Patrick Debois, Jez Humble and John Willis.
 
-## Want to connect?
+<br>
 
-Thank you for reading my article. You can also find me and my work on LinkedIn and Github.
+## Want to Connect?
+
+Thank you for reading my article. You can also find me on [LinkedIn](https://www.linkedin.com/in/mukkundsunjii/) and my work on [GitHub](https://github.com/mukkund1996).

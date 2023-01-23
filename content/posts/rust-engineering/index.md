@@ -73,5 +73,8 @@ So you might again ask, why would I conceive such a complicated solution to a re
 
 Sometimes its good to take the harder path to solve a solution 😉
 
-## Want to connect?
-Thank you for reading my article. You can also find me on LinkedIn and my work on Github.
+<br>
+
+## Want to Connect?
+
+Thank you for reading my article. You can also find me on [LinkedIn](https://www.linkedin.com/in/mukkundsunjii/) and my work on [GitHub](https://github.com/mukkund1996).

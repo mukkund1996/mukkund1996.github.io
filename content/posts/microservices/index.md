@@ -58,8 +58,14 @@ Able to be supported by a small team.
 Loosely coupled.
 Of course, microservice architecture comes with its caveats and is not ideal in all scenarios. Nevertheless, it is a proven design model when creating complex software systems.
 
-### Footnotes:
+### Footnotes
 The React notetaking app was built using the course by 
 Angela Yu
 . It was further modified to allow for the data to be persisted.
 This article is not meant to be a technical guide. Please refer to the links provided for detailed information.
+
+<br>
+
+## Want to Connect?
+
+Thank you for reading my article. You can also find me on [LinkedIn](https://www.linkedin.com/in/mukkundsunjii/) and my work on [GitHub](https://github.com/mukkund1996).

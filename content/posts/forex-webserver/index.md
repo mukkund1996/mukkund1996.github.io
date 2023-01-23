@@ -108,4 +108,8 @@ Never do this in a production environment. Avoid reinventing the wheel! 
 - It has taught me the pitfalls of blindly trusting external libraries without understanding the domain on which it was built on top of.
 - Most importantly, it made me appreciate all of the wonderful tools that are available at our disposal.
 
-Thank you for reading my article. You can find the repository for the Forex Estimator [here](https://github.com/mukkund1996/exchanger).
+<br>
+
+## Want to Connect?
+
+Thank you for reading my article. You can also find me on [LinkedIn](https://www.linkedin.com/in/mukkundsunjii/) and my work on [GitHub](https://github.com/mukkund1996).

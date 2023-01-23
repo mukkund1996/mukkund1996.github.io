@@ -20,6 +20,14 @@ A simple, and an elegant web-based GUI for docker-compose. Create your microserv
 #### [Demo](https://always-composed.vercel.app/)
 #### [Code](https://github.com/mukkund1996/composed)
 
+# Forex Estimator
+![rust](images/rust.png)
+- A forex-webserver built from the ground up without dependencies. 
+- The webserver is able to process multiple requests concurrently using a thread-pool executor built entirely using the standard library.
+- Features a linear regression model to model future rates.
+
+#### [Code](https://github.com/mukkund1996/exchanger)
+
 # CTRL+C - CTRL+V
 
 ![copypaste](images/copypaste.gif)
