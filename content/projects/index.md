@@ -4,6 +4,18 @@ slug = "projects"
 +++
 <br>
 
+# GrphBook
+
+![grphbook](images/grphbook.png)
+
+Grphbook is a web-based application that allows users to create graphical representations of python notebooks. It allows you to represent complex workflows using simple nodes augmented with useful AI features.
+
+## Tech Stack
+![react](images/structure.png)
+
+#### [Website](https://mukkund1996.github.io/grphbook/)
+#### [Demo](https://grphbook.vercel.app/)
+
 # Composed
 
 ![composed](images/composed.png)
