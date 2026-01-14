@@ -4,12 +4,13 @@ date = 2026-01-07
 title = "Building an AI product using AI — Part 1"
 description = ""
 slug = ""
-authors = []
+authors = ["Mukkund"]
 tags = ["product","agentic-ai","agents","product-managment"]
 categories = []
 externalLink = ""
 series = []
 +++
+![1_0](images/1_0.png)
 ### and the struggles with my AI Agents…
 
 *Disclaimer: Every word is written by a human — but it still comes with hallucinations and delusion.*
